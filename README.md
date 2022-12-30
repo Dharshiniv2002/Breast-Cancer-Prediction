@@ -1,4 +1,4 @@
-# Breast Cancer Prediction Using Artificial Intelligence 🤖
+# Breast Cancer Prediction Using Artificial Intelligence 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/batmanscode/breastcancer-predictor/app.py)
 
